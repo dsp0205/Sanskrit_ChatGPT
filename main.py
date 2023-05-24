@@ -27,7 +27,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-openai.api_key = "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"
+openai.api_key = "your_api_key"
 
 
 def BasicGeneration(userPrompt):
